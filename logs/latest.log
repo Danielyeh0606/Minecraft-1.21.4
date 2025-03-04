@@ -1,0 +1,306 @@
+[15:30:03] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[15:30:05] [ServerMain/INFO]: Loaded 1370 recipes
+[15:30:05] [ServerMain/INFO]: Loaded 1481 advancements
+[15:30:10] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[15:30:10] [Server thread/INFO]: Loading properties
+[15:30:10] [Server thread/INFO]: Default game type: SURVIVAL
+[15:30:10] [Server thread/INFO]: Generating keypair
+[15:30:10] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: 控制代碼無效。
+	at java.base/java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:287) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:345) ~[?:?]
+	at java.base/java.io.BufferedInputStream.implRead(BufferedInputStream.java:420) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:399) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:350) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:393) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.lockedRead(StreamDecoder.java:217) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:171) ~[?:?]
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:186) ~[?:?]
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:160) ~[?:?]
+	at java.base/java.io.BufferedReader.implReadLine(BufferedReader.java:370) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:347) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:436) ~[?:?]
+	at apu$1.run(SourceFile:102) [server-1.21.4.jar:?]
+[15:30:10] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:30:10] [Server thread/INFO]: Using default channel type
+[15:30:10] [Server thread/INFO]: Preparing level "world"
+[15:30:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:30:12] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:30:12] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:30:12] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:30:12] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:30:12] [Server thread/INFO]: Time elapsed: 1829 ms
+[15:30:12] [Server thread/INFO]: Done (2.139s)! For help, type "help"
+[15:30:55] [User Authenticator #1/INFO]: UUID of player _gary_825 is 8b485e5b-df67-4315-9405-2a9eb28bdd97
+[15:30:56] [Server thread/INFO]: _gary_825[/26.128.116.69:7863] logged in with entity id 127 at (886.8645176895341, 65.0, 1179.5263138546086)
+[15:30:56] [Server thread/INFO]: _gary_825 joined the game
+[15:32:15] [User Authenticator #2/INFO]: UUID of player redbean920108 is c9bf6189-b5cc-4cd3-8fcf-196e091be6c1
+[15:32:18] [Server thread/INFO]: redbean920108[/26.153.112.26:55410] logged in with entity id 498 at (884.8884344329869, 65.0, 1190.3603056059787)
+[15:32:18] [Server thread/INFO]: redbean920108 joined the game
+[15:43:30] [Server thread/INFO]: _gary_825 has made the advancement [Fishy Business]
+[15:47:15] [Server thread/INFO]: [redbean920108: Set the time to 1000]
+[15:57:56] [Server thread/INFO]: [_gary_825: Teleported redbean920108 to _gary_825]
+[15:58:32] [Server thread/INFO]: [redbean920108: Set the time to 1000]
+[16:23:56] [Server thread/INFO]: [redbean920108: Set the time to 1000]
+[16:32:30] [Server thread/INFO]: [redbean920108: Set the time to 1000]
+[16:32:42] [Server thread/INFO]: [redbean920108: Set the weather to clear]
+[16:33:58] [Server thread/INFO]: [redbean920108: Gamerule randomTickSpeed is now set to: 300]
+[16:34:15] [Server thread/INFO]: [redbean920108: Gamerule randomTickSpeed is now set to: 3]
+[16:36:53] [Server thread/INFO]: [redbean920108: Gamerule randomTickSpeed is now set to: 300]
+[16:37:21] [Server thread/INFO]: [redbean920108: Gamerule randomTickSpeed is now set to: 3]
+[16:40:21] [User Authenticator #3/INFO]: UUID of player BABUBABABA is 4fd662aa-5c63-4de3-8c57-29146d1e45d2
+[16:40:23] [Server thread/INFO]: BABUBABABA[/26.67.121.42:50205] logged in with entity id 13160 at (897.0250204532267, 65.875, 1189.9151016802314)
+[16:40:23] [Server thread/INFO]: BABUBABABA joined the game
+[16:43:32] [Server thread/INFO]: BABUBABABA lost connection: Disconnected
+[16:43:32] [Server thread/INFO]: BABUBABABA left the game
+[16:45:15] [User Authenticator #4/INFO]: UUID of player BABUBABABA is 4fd662aa-5c63-4de3-8c57-29146d1e45d2
+[16:45:16] [Server thread/INFO]: BABUBABABA[/26.67.121.42:50490] logged in with entity id 13908 at (974.5, 56.0, 1148.5)
+[16:45:16] [Server thread/INFO]: BABUBABABA joined the game
+[16:54:29] [Server thread/INFO]: BABUBABABA lost connection: Disconnected
+[16:54:29] [Server thread/INFO]: BABUBABABA left the game
+[16:58:18] [Server thread/INFO]: redbean920108 lost connection: Disconnected
+[16:58:18] [Server thread/INFO]: redbean920108 left the game
+[16:59:07] [User Authenticator #5/INFO]: UUID of player redbean920108 is c9bf6189-b5cc-4cd3-8fcf-196e091be6c1
+[16:59:07] [Server thread/INFO]: redbean920108[/26.153.112.26:55987] logged in with entity id 16714 at (896.1536180479853, 64.0, 1209.0985194100808)
+[16:59:07] [Server thread/INFO]: redbean920108 joined the game
+[17:01:26] [Server thread/INFO]: [_gary_825: Set the time to 1000]
+[17:03:25] [User Authenticator #6/INFO]: UUID of player BABUBABABA is 4fd662aa-5c63-4de3-8c57-29146d1e45d2
+[17:03:26] [Server thread/INFO]: BABUBABABA[/26.67.121.42:50914] logged in with entity id 17435 at (883.180203983814, 65.0, 1190.137231249036)
+[17:03:26] [Server thread/INFO]: BABUBABABA joined the game
+[17:05:44] [Server thread/INFO]: redbean920108 lost connection: Disconnected
+[17:05:44] [Server thread/INFO]: redbean920108 left the game
+[17:08:47] [Server thread/WARN]: BABUBABABA moved too quickly! -10.022292901923265,0.41999998688697815,1.4584193782566217
+[17:10:25] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=957, y=66, z=1156} ji{x=957, y=65, z=1158}
+[17:10:25] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=957, y=66, z=1157} ji{x=957, y=65, z=1158}
+[17:10:27] [Server thread/INFO]: BABUBABABA lost connection: Timed out
+[17:10:27] [Server thread/INFO]: BABUBABABA left the game
+[17:11:12] [User Authenticator #7/INFO]: UUID of player BABUBABABA is 4fd662aa-5c63-4de3-8c57-29146d1e45d2
+[17:11:14] [Server thread/INFO]: BABUBABABA[/26.67.121.42:51098] logged in with entity id 18918 at (959.0667912002648, 65.0, 1159.372157776459)
+[17:11:14] [Server thread/INFO]: BABUBABABA joined the game
+[17:11:25] [Server thread/INFO]: [_gary_825: Set the time to 1000]
+[17:12:19] [Server thread/INFO]: BABUBABABA lost connection: Disconnected
+[17:12:19] [Server thread/INFO]: BABUBABABA left the game
+[17:12:41] [User Authenticator #8/INFO]: UUID of player BABUBABABA is 4fd662aa-5c63-4de3-8c57-29146d1e45d2
+[17:12:42] [Server thread/INFO]: BABUBABABA[/26.67.121.42:51136] logged in with entity id 19183 at (956.3412544779029, 66.0, 1162.0145187575906)
+[17:12:42] [Server thread/INFO]: BABUBABABA joined the game
+[17:13:42] [Server thread/INFO]: BABUBABABA lost connection: Timed out
+[17:13:42] [Server thread/INFO]: BABUBABABA left the game
+[17:14:27] [User Authenticator #9/INFO]: UUID of player BABUBABABA is 4fd662aa-5c63-4de3-8c57-29146d1e45d2
+[17:14:27] [Server thread/INFO]: BABUBABABA[/26.67.121.42:51189] logged in with entity id 19572 at (953.3528308634093, 65.0, 1165.330160932133)
+[17:14:27] [Server thread/INFO]: BABUBABABA joined the game
+[17:17:06] [User Authenticator #10/INFO]: UUID of player redbean920108 is c9bf6189-b5cc-4cd3-8fcf-196e091be6c1
+[17:17:08] [Server thread/INFO]: redbean920108[/26.153.112.26:57948] logged in with entity id 19966 at (909.271287945827, 64.0, 1215.373696384657)
+[17:17:08] [Server thread/INFO]: redbean920108 joined the game
+[17:19:27] [Server thread/INFO]: redbean920108 lost connection: Disconnected
+[17:19:27] [Server thread/INFO]: redbean920108 left the game
+[17:19:33] [Server thread/INFO]: BABUBABABA has made the advancement [Hot Stuff]
+[17:19:39] [User Authenticator #11/INFO]: UUID of player redbean920108 is c9bf6189-b5cc-4cd3-8fcf-196e091be6c1
+[17:19:40] [Server thread/INFO]: redbean920108[/26.153.112.26:58110] logged in with entity id 20376 at (903.9132691882849, 64.0, 1208.699999988079)
+[17:19:40] [Server thread/INFO]: redbean920108 joined the game
+[17:21:27] [Server thread/INFO]: <BABUBABABA> GO TO SLEEP
+[17:21:31] [Server thread/WARN]: redbean920108 was kicked for floating too long!
+[17:21:31] [Server thread/INFO]: redbean920108 lost connection: Flying is not enabled on this server
+[17:21:31] [Server thread/INFO]: redbean920108 left the game
+[17:22:31] [User Authenticator #12/INFO]: UUID of player redbean920108 is c9bf6189-b5cc-4cd3-8fcf-196e091be6c1
+[17:22:34] [Server thread/INFO]: redbean920108[/26.153.112.26:58276] logged in with entity id 20915 at (895.253676834539, 65.24918707874468, 1211.4594788245045)
+[17:22:34] [Server thread/INFO]: redbean920108 joined the game
+[17:22:55] [Server thread/WARN]: redbean920108 moved too quickly! -1.2539535367844792,-0.5061351021062137,-10.2505074698106
+[17:23:18] [Server thread/INFO]: redbean920108 lost connection: Disconnected
+[17:23:18] [Server thread/INFO]: redbean920108 left the game
+[17:26:36] [User Authenticator #13/INFO]: UUID of player redbean920108 is c9bf6189-b5cc-4cd3-8fcf-196e091be6c1
+[17:26:37] [Server thread/INFO]: redbean920108[/26.153.112.26:58581] logged in with entity id 21636 at (893.517859618573, 64.79673560066871, 1201.0297244965036)
+[17:26:37] [Server thread/INFO]: redbean920108 joined the game
+[17:27:51] [Server thread/WARN]: BABUBABABA moved too quickly! 5.055981537390608,0.41999998688697815,8.76950344214265
+[17:29:09] [Server thread/INFO]: redbean920108 lost connection: Timed out
+[17:29:09] [Server thread/INFO]: redbean920108 left the game
+[17:29:19] [User Authenticator #14/INFO]: UUID of player redbean920108 is c9bf6189-b5cc-4cd3-8fcf-196e091be6c1
+[17:29:20] [Server thread/INFO]: redbean920108[/26.153.112.26:58600] logged in with entity id 22220 at (884.2218049267569, 65.875, 1188.8671290289958)
+[17:29:20] [Server thread/INFO]: redbean920108 joined the game
+[17:30:05] [Server thread/INFO]: redbean920108 lost connection: Timed out
+[17:30:05] [Server thread/INFO]: redbean920108 left the game
+[17:30:51] [User Authenticator #15/INFO]: UUID of player redbean920108 is c9bf6189-b5cc-4cd3-8fcf-196e091be6c1
+[17:30:52] [Server thread/INFO]: redbean920108[/26.153.112.26:58607] logged in with entity id 22520 at (883.8187509684233, 65.0, 1190.742554299239)
+[17:30:52] [Server thread/INFO]: redbean920108 joined the game
+[17:31:09] [Server thread/INFO]: BABUBABABA lost connection: Disconnected
+[17:31:09] [Server thread/INFO]: BABUBABABA left the game
+[17:31:30] [User Authenticator #16/INFO]: UUID of player BABUBABABA is 4fd662aa-5c63-4de3-8c57-29146d1e45d2
+[17:31:31] [Server thread/INFO]: BABUBABABA[/26.67.121.42:51575] logged in with entity id 22616 at (971.3787266484768, 65.0, 1160.4186914045276)
+[17:31:31] [Server thread/INFO]: BABUBABABA joined the game
+[17:32:28] [Server thread/INFO]: redbean920108 lost connection: Disconnected
+[17:32:28] [Server thread/INFO]: redbean920108 left the game
+[17:32:50] [Server thread/INFO]: BABUBABABA has made the advancement [The Parrots and the Bats]
+[17:38:22] [Server thread/WARN]: BABUBABABA moved too quickly! 9.609606343733503,-1.5358406250445569,-2.4059814873769483
+[17:43:31] [Server thread/INFO]: BABUBABABA lost connection: Disconnected
+[17:43:31] [Server thread/INFO]: BABUBABABA left the game
+[17:43:51] [User Authenticator #17/INFO]: UUID of player BABUBABABA is 4fd662aa-5c63-4de3-8c57-29146d1e45d2
+[17:43:52] [Server thread/INFO]: BABUBABABA[/26.67.121.42:51880] logged in with entity id 25239 at (962.4805686972812, 69.0, 1159.0206637055046)
+[17:43:52] [Server thread/INFO]: BABUBABABA joined the game
+[17:54:38] [Server thread/INFO]: BABUBABABA lost connection: Timed out
+[17:54:38] [Server thread/INFO]: BABUBABABA left the game
+[17:55:14] [User Authenticator #18/INFO]: UUID of player BABUBABABA is 4fd662aa-5c63-4de3-8c57-29146d1e45d2
+[17:55:16] [Server thread/INFO]: BABUBABABA[/26.67.121.42:52135] logged in with entity id 27848 at (964.4735492554117, 65.0, 1159.1808963816993)
+[17:55:16] [Server thread/INFO]: BABUBABABA joined the game
+[18:03:04] [Server thread/INFO]: BABUBABABA lost connection: Timed out
+[18:03:04] [Server thread/INFO]: BABUBABABA left the game
+[18:04:43] [User Authenticator #19/INFO]: UUID of player BABUBABABA is 4fd662aa-5c63-4de3-8c57-29146d1e45d2
+[18:04:45] [Server thread/INFO]: BABUBABABA[/26.67.121.42:52493] logged in with entity id 29411 at (959.7996731784394, 65.76636799395752, 1160.7754222814272)
+[18:04:45] [Server thread/INFO]: BABUBABABA joined the game
+[18:05:30] [Server thread/INFO]: BABUBABABA lost connection: Disconnected
+[18:05:30] [Server thread/INFO]: BABUBABABA left the game
+[18:06:35] [User Authenticator #20/INFO]: UUID of player BABUBABABA is 4fd662aa-5c63-4de3-8c57-29146d1e45d2
+[18:06:36] [Server thread/INFO]: BABUBABABA[/26.67.121.42:52663] logged in with entity id 29687 at (967.6449217539523, 65.0, 1162.2848958432567)
+[18:06:36] [Server thread/INFO]: BABUBABABA joined the game
+[18:11:52] [Server thread/INFO]: BABUBABABA lost connection: Timed out
+[18:11:52] [Server thread/INFO]: BABUBABABA left the game
+[18:12:30] [User Authenticator #21/INFO]: UUID of player BABUBABABA is 4fd662aa-5c63-4de3-8c57-29146d1e45d2
+[18:12:31] [Server thread/INFO]: BABUBABABA[/26.67.121.42:52809] logged in with entity id 30687 at (962.3612499787614, 68.0, 1158.9238032684032)
+[18:12:31] [Server thread/INFO]: BABUBABABA joined the game
+[18:14:53] [Server thread/WARN]: BABUBABABA moved too quickly! -6.464907541756702,0.7531999805212024,-7.688593577713618
+[18:15:16] [Server thread/INFO]: BABUBABABA lost connection: Timed out
+[18:15:16] [Server thread/INFO]: BABUBABABA left the game
+[18:15:34] [User Authenticator #22/INFO]: UUID of player BABUBABABA is 4fd662aa-5c63-4de3-8c57-29146d1e45d2
+[18:15:37] [Server thread/INFO]: BABUBABABA[/26.67.121.42:52879] logged in with entity id 31265 at (948.5832220876083, 66.41999998688698, 1138.6802470129005)
+[18:15:37] [Server thread/INFO]: BABUBABABA joined the game
+[18:16:10] [Server thread/INFO]: BABUBABABA lost connection: Disconnected
+[18:16:10] [Server thread/INFO]: BABUBABABA left the game
+[18:16:21] [User Authenticator #23/INFO]: UUID of player BABUBABABA is 4fd662aa-5c63-4de3-8c57-29146d1e45d2
+[18:16:23] [Server thread/INFO]: BABUBABABA[/26.67.121.42:52904] logged in with entity id 31437 at (974.5, 56.0, 1150.5)
+[18:16:23] [Server thread/INFO]: BABUBABABA joined the game
+[18:17:08] [Server thread/INFO]: BABUBABABA lost connection: Timed out
+[18:17:08] [Server thread/INFO]: BABUBABABA left the game
+[18:18:04] [User Authenticator #24/INFO]: UUID of player BABUBABABA is 4fd662aa-5c63-4de3-8c57-29146d1e45d2
+[18:18:05] [Server thread/INFO]: BABUBABABA[/26.67.121.42:52946] logged in with entity id 31689 at (942.2024480355994, 67.0, 1136.300000011921)
+[18:18:05] [Server thread/INFO]: BABUBABABA joined the game
+[18:22:51] [User Authenticator #25/INFO]: UUID of player redbean920108 is c9bf6189-b5cc-4cd3-8fcf-196e091be6c1
+[18:22:52] [Server thread/INFO]: redbean920108[/26.153.112.26:58935] logged in with entity id 32536 at (881.9361688784807, 65.0, 1190.6635021996078)
+[18:22:52] [Server thread/INFO]: redbean920108 joined the game
+[18:29:14] [Server thread/INFO]: _gary_825 lost connection: Disconnected
+[18:29:14] [Server thread/INFO]: _gary_825 left the game
+[18:30:21] [Server thread/INFO]: BABUBABABA lost connection: Timed out
+[18:30:21] [Server thread/INFO]: BABUBABABA left the game
+[18:30:30] [Server thread/INFO]: _gary_825 (/26.128.116.69:10991) lost connection: Disconnected
+[18:31:12] [User Authenticator #26/INFO]: UUID of player BABUBABABA is 4fd662aa-5c63-4de3-8c57-29146d1e45d2
+[18:31:12] [Server thread/INFO]: BABUBABABA[/26.67.121.42:53255] logged in with entity id 34135 at (884.9980452475055, 66.0, 1189.9683318876898)
+[18:31:12] [Server thread/INFO]: BABUBABABA joined the game
+[18:31:27] [User Authenticator #27/INFO]: UUID of player _gary_825 is 8b485e5b-df67-4315-9405-2a9eb28bdd97
+[18:31:28] [Server thread/INFO]: _gary_825[/26.128.116.69:11076] logged in with entity id 34192 at (896.191725904427, 66.0, 1179.771799806274)
+[18:31:28] [Server thread/INFO]: _gary_825 joined the game
+[18:31:45] [Server thread/INFO]: _gary_825 lost connection: Disconnected
+[18:31:45] [Server thread/INFO]: _gary_825 left the game
+[18:31:57] [Server thread/INFO]: BABUBABABA lost connection: Disconnected
+[18:31:57] [Server thread/INFO]: BABUBABABA left the game
+[18:32:07] [User Authenticator #28/INFO]: UUID of player BABUBABABA is 4fd662aa-5c63-4de3-8c57-29146d1e45d2
+[18:32:07] [Server thread/INFO]: BABUBABABA[/26.67.121.42:53280] logged in with entity id 34469 at (886.7998577301305, 65.0, 1191.7288153562602)
+[18:32:07] [Server thread/INFO]: BABUBABABA joined the game
+[18:32:59] [Server thread/INFO]: BABUBABABA lost connection: Disconnected
+[18:32:59] [Server thread/INFO]: BABUBABABA left the game
+[18:33:42] [User Authenticator #29/INFO]: UUID of player BABUBABABA is 4fd662aa-5c63-4de3-8c57-29146d1e45d2
+[18:33:43] [Server thread/INFO]: BABUBABABA[/26.67.121.42:53315] logged in with entity id 35091 at (892.3678383815086, 65.0, 1190.5845302482544)
+[18:33:43] [Server thread/INFO]: BABUBABABA joined the game
+[18:36:49] [Server thread/INFO]: BABUBABABA lost connection: Timed out
+[18:36:49] [Server thread/INFO]: BABUBABABA left the game
+[18:37:08] [User Authenticator #30/INFO]: UUID of player BABUBABABA is 4fd662aa-5c63-4de3-8c57-29146d1e45d2
+[18:37:08] [Server thread/INFO]: BABUBABABA[/26.67.121.42:53400] logged in with entity id 36264 at (857.0454926009476, 68.0, 1189.1317817797715)
+[18:37:08] [Server thread/INFO]: BABUBABABA joined the game
+[18:38:16] [Server thread/WARN]: BABUBABABA moved too quickly! 0.5427299617083463,0.0,-9.998733099354695
+[18:39:39] [Server thread/INFO]: redbean920108 lost connection: Timed out
+[18:39:39] [Server thread/INFO]: redbean920108 left the game
+[18:39:42] [Server thread/INFO]: BABUBABABA lost connection: Disconnected
+[18:39:42] [Server thread/INFO]: BABUBABABA left the game
+[18:39:59] [User Authenticator #31/INFO]: UUID of player BABUBABABA is 4fd662aa-5c63-4de3-8c57-29146d1e45d2
+[18:40:00] [Server thread/INFO]: BABUBABABA[/26.67.121.42:53482] logged in with entity id 36732 at (891.0609850802109, 68.9375, 1116.1762434874006)
+[18:40:00] [Server thread/INFO]: BABUBABABA joined the game
+[18:40:13] [User Authenticator #32/INFO]: UUID of player redbean920108 is c9bf6189-b5cc-4cd3-8fcf-196e091be6c1
+[18:40:15] [Server thread/INFO]: redbean920108[/26.153.112.26:59013] logged in with entity id 37028 at (918.5594448474021, 62.231523797587016, 1200.300000011921)
+[18:40:15] [Server thread/INFO]: redbean920108 joined the game
+[18:41:04] [Server thread/INFO]: BABUBABABA was slain by Zombie
+[18:41:25] [Server thread/WARN]: BABUBABABA moved too quickly! -9.46286477063461,0.0,3.438086176298384
+[18:41:29] [Server thread/INFO]: BABUBABABA was slain by Zombie
+[18:41:30] [Server thread/INFO]: BABUBABABA lost connection: Timed out
+[18:41:30] [Server thread/INFO]: BABUBABABA left the game
+[18:42:03] [User Authenticator #33/INFO]: UUID of player BABUBABABA is 4fd662aa-5c63-4de3-8c57-29146d1e45d2
+[18:42:04] [Server thread/INFO]: BABUBABABA[/26.67.121.42:53532] logged in with entity id 37442 at (940.2866361591541, 66.0, 1174.9844882005043)
+[18:42:04] [Server thread/INFO]: BABUBABABA joined the game
+[18:42:28] [User Authenticator #34/INFO]: UUID of player _gary_825 is 8b485e5b-df67-4315-9405-2a9eb28bdd97
+[18:42:28] [Server thread/INFO]: _gary_825[/26.128.116.69:10299] logged in with entity id 37561 at (896.191725904427, 66.0, 1179.771799806274)
+[18:42:28] [Server thread/INFO]: _gary_825 joined the game
+[18:45:03] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=906, y=63, z=1288} ji{x=906, y=62, z=1287}
+[18:45:03] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=906, y=63, z=1288} ji{x=906, y=62, z=1287}
+[18:45:03] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=906, y=63, z=1288} ji{x=906, y=62, z=1287}
+[18:49:27] [Server thread/INFO]: BABUBABABA lost connection: Disconnected
+[18:49:27] [Server thread/INFO]: BABUBABABA left the game
+[18:50:30] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=891, y=62, z=1283} ji{x=891, y=62, z=1284}
+[18:50:30] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=891, y=62, z=1283} ji{x=891, y=62, z=1284}
+[18:50:30] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=891, y=62, z=1283} ji{x=891, y=62, z=1284}
+[18:53:02] [Server thread/INFO]: [_gary_825: Set the time to 1000]
+[18:53:23] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=886, y=63, z=1240} ji{x=886, y=62, z=1239}
+[18:54:01] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=883, y=63, z=1257} ji{x=883, y=62, z=1258}
+[18:54:01] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=883, y=63, z=1257} ji{x=883, y=62, z=1258}
+[18:54:01] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=883, y=63, z=1257} ji{x=883, y=62, z=1258}
+[18:54:02] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=883, y=63, z=1257} ji{x=883, y=62, z=1258}
+[18:57:44] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=934, y=63, z=1230} ji{x=935, y=64, z=1229}
+[18:57:44] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=934, y=63, z=1230} ji{x=935, y=64, z=1229}
+[18:57:44] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=934, y=63, z=1230} ji{x=935, y=64, z=1229}
+[18:57:44] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=934, y=63, z=1230} ji{x=935, y=64, z=1229}
+[19:01:45] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=918, y=63, z=1242} ji{x=919, y=62, z=1241}
+[19:01:45] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=918, y=63, z=1242} ji{x=919, y=62, z=1241}
+[19:01:45] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=918, y=63, z=1242} ji{x=919, y=62, z=1241}
+[19:01:45] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=918, y=63, z=1242} ji{x=919, y=62, z=1241}
+[19:01:45] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=918, y=63, z=1242} ji{x=919, y=62, z=1241}
+[19:01:45] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=918, y=63, z=1242} ji{x=919, y=62, z=1241}
+[19:01:45] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=918, y=63, z=1242} ji{x=919, y=62, z=1241}
+[19:01:46] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=917, y=66, z=1241} ji{x=918, y=65, z=1241}
+[19:01:46] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=917, y=66, z=1241} ji{x=918, y=65, z=1241}
+[19:01:46] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=917, y=66, z=1241} ji{x=918, y=65, z=1241}
+[19:02:51] [Server thread/INFO]: [_gary_825: Set the time to 1000]
+[19:07:05] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=928, y=65, z=1251} ji{x=926, y=64, z=1251}
+[19:07:05] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=928, y=65, z=1251} ji{x=926, y=64, z=1251}
+[19:07:05] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=928, y=65, z=1251} ji{x=926, y=64, z=1251}
+[19:07:05] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=928, y=65, z=1251} ji{x=926, y=64, z=1251}
+[19:07:05] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=928, y=65, z=1251} ji{x=926, y=64, z=1251}
+[19:07:05] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=928, y=65, z=1251} ji{x=926, y=64, z=1251}
+[19:07:05] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=928, y=65, z=1251} ji{x=926, y=64, z=1251}
+[19:09:16] [Server thread/INFO]: [_gary_825: Set the time to 1000]
+[19:18:05] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=917, y=63, z=1263} ji{x=918, y=67, z=1263}
+[19:18:05] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=917, y=63, z=1263} ji{x=918, y=67, z=1263}
+[19:18:05] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=917, y=63, z=1263} ji{x=918, y=67, z=1263}
+[19:18:05] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=917, y=63, z=1263} ji{x=918, y=67, z=1263}
+[19:18:05] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=917, y=63, z=1263} ji{x=918, y=67, z=1263}
+[19:18:51] [Server thread/INFO]: [_gary_825: Set the time to 1000]
+[19:19:20] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=918, y=66, z=1265} ji{x=917, y=67, z=1265}
+[19:19:20] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=918, y=66, z=1265} ji{x=917, y=67, z=1265}
+[19:28:20] [Server thread/INFO]: [_gary_825: Set the time to 1000]
+[19:28:27] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=936, y=67, z=1273} ji{x=933, y=68, z=1273}
+[19:28:28] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=936, y=67, z=1273} ji{x=933, y=68, z=1273}
+[19:28:28] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=936, y=67, z=1273} ji{x=933, y=68, z=1273}
+[19:28:28] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=936, y=67, z=1273} ji{x=933, y=68, z=1273}
+[19:28:28] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=936, y=67, z=1273} ji{x=933, y=68, z=1273}
+[19:28:28] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=936, y=67, z=1273} ji{x=933, y=68, z=1273}
+[19:28:28] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=936, y=67, z=1273} ji{x=933, y=68, z=1273}
+[19:28:28] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=936, y=67, z=1273} ji{x=933, y=68, z=1273}
+[19:29:24] [Server thread/INFO]: [_gary_825: Set the weather to clear]
+[19:31:19] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=933, y=64, z=1275} ji{x=931, y=65, z=1276}
+[19:31:19] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=933, y=64, z=1275} ji{x=931, y=65, z=1276}
+[19:31:19] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=933, y=64, z=1275} ji{x=931, y=65, z=1276}
+[19:31:19] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=933, y=64, z=1275} ji{x=931, y=65, z=1276}
+[19:31:20] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=933, y=64, z=1275} ji{x=931, y=65, z=1276}
+[19:31:20] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=933, y=64, z=1275} ji{x=931, y=65, z=1276}
+[19:37:49] [Server thread/INFO]: [_gary_825: Set the weather to clear]
+[19:37:52] [Server thread/INFO]: [_gary_825: Set the time to 1000]
+[19:46:28] [Server thread/INFO]: [_gary_825: Set the time to 1000]
+[19:46:30] [Server thread/INFO]: _gary_825 lost connection: Disconnected
+[19:46:30] [Server thread/INFO]: _gary_825 left the game
+[19:50:02] [Server thread/INFO]: redbean920108 lost connection: Disconnected
+[19:50:02] [Server thread/INFO]: redbean920108 left the game
+[19:51:02] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[19:56:12] [Server thread/INFO]: Stopping server
+[19:56:12] [Server thread/INFO]: Saving players
+[19:56:12] [Server thread/INFO]: Saving worlds
+[19:56:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:56:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19:56:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19:56:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:56:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:56:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:56:13] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
