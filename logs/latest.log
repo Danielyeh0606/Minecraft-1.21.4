@@ -1,51 +1,33 @@
-[00:11:43] [Server thread/WARN]: redbean920108 moved too quickly! -10.010553033022234,-1.2247629905309907,-0.9006008476007992
-[00:23:59] [Server thread/WARN]: BABUBABABA moved too quickly! 2.8069489221450112,0.0,-9.674983597023129
-[00:24:23] [Server thread/INFO]: BABUBABABA was slain by Spider
-[00:24:44] [Server thread/WARN]: BABUBABABA moved too quickly! 2.4305101635234223,0.0,9.778466907692064
-[00:25:06] [Server thread/INFO]: BABUBABABA lost connection: Disconnected
-[00:25:06] [Server thread/INFO]: BABUBABABA left the game
-[00:25:26] [User Authenticator #5/INFO]: UUID of player BABUBABABA is 4fd662aa-5c63-4de3-8c57-29146d1e45d2
-[00:25:26] [Server thread/INFO]: BABUBABABA[/26.67.121.42:59741] logged in with entity id 26923 at (974.21144942277, 65.1212968405392, 1175.6012331917032)
-[00:25:26] [Server thread/INFO]: BABUBABABA joined the game
-[00:25:58] [Server thread/INFO]: BABUBABABA has made the advancement [We Need to Go Deeper]
-[00:36:18] [User Authenticator #6/INFO]: UUID of player 7718_ is 866507f7-e61b-411e-98e9-21d0fe31f025
-[00:36:19] [Server thread/INFO]: 7718_[/26.144.40.204:50969] logged in with entity id 29741 at (895.159692968622, 66.0, 1187.2566940623153)
-[00:36:19] [Server thread/INFO]: 7718_ joined the game
-[00:42:29] [Server thread/INFO]: <_gary_825> 100 70 160
-[00:51:11] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=292, y=37, z=75} ji{x=242, y=53, z=91}
-[00:51:11] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=292, y=37, z=75} ji{x=242, y=53, z=91}
-[00:51:31] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=920, y=69, z=1285} ji{x=921, y=69, z=1285}
-[01:00:07] [Server thread/INFO]: redbean920108 has made the advancement [A Terrible Fortress]
-[01:00:14] [Server thread/INFO]: 7718_ has made the advancement [A Terrible Fortress]
-[01:00:20] [Server thread/INFO]: _gary_825 has made the advancement [A Terrible Fortress]
-[01:01:46] [Server thread/INFO]: BABUBABABA lost connection: Disconnected
-[01:01:46] [Server thread/INFO]: BABUBABABA left the game
-[01:02:14] [Server thread/INFO]: 7718_ has made the advancement [Into Fire]
-[01:03:52] [Server thread/INFO]: _gary_825 has made the advancement [Into Fire]
-[01:04:00] [Server thread/INFO]: redbean920108 has made the advancement [Into Fire]
-[01:15:45] [Server thread/INFO]: 7718_ was slain by Wither Skeleton
-[01:16:35] [Server thread/INFO]: [7718_: Teleported 7718_ to redbean920108]
-[01:36:15] [Server thread/INFO]: [redbean920108: Set own game mode to Spectator Mode]
-[01:37:10] [Server thread/INFO]: [redbean920108: Set own game mode to Survival Mode]
-[01:47:07] [Server thread/INFO]: 7718_ tried to swim in lava
-[01:48:09] [Server thread/INFO]: [redbean920108: Set own game mode to Spectator Mode]
-[01:49:11] [Server thread/INFO]: [redbean920108: Teleported redbean920108 to 7718_]
-[01:49:20] [Server thread/INFO]: [redbean920108: Set own game mode to Survival Mode]
-[02:04:15] [Server thread/INFO]: _gary_825 lost connection: Disconnected
-[02:04:15] [Server thread/INFO]: _gary_825 left the game
-[02:09:07] [Server thread/INFO]: redbean920108 lost connection: Disconnected
-[02:09:07] [Server thread/INFO]: redbean920108 left the game
-[02:09:31] [Server thread/INFO]: 7718_ lost connection: Disconnected
-[02:09:31] [Server thread/INFO]: 7718_ left the game
-[02:10:31] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[02:11:03] [Server thread/INFO]: Stopping the server
-[02:11:03] [Server thread/INFO]: Stopping server
-[02:11:04] [Server thread/INFO]: Saving players
-[02:11:04] [Server thread/INFO]: Saving worlds
-[02:11:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[02:11:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[02:11:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[02:11:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:11:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:11:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:11:07] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:37:39] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[15:37:41] [ServerMain/INFO]: Loaded 1370 recipes
+[15:37:41] [ServerMain/INFO]: Loaded 1481 advancements
+[15:37:41] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[15:37:41] [Server thread/INFO]: Loading properties
+[15:37:41] [Server thread/INFO]: Default game type: SURVIVAL
+[15:37:41] [Server thread/INFO]: Generating keypair
+[15:37:41] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:37:41] [Server thread/INFO]: Using epoll channel type
+[15:37:41] [Server thread/INFO]: Preparing level "world"
+[15:37:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:37:42] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:37:42] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:37:42] [Worker-Main-15/INFO]: Preparing spawn area: 10%
+[15:37:43] [Server thread/INFO]: Time elapsed: 1073 ms
+[15:37:43] [Server thread/INFO]: Done (1.402s)! For help, type "help"
+[15:37:50] [User Authenticator #1/INFO]: UUID of player 7718_ is 866507f7-e61b-411e-98e9-21d0fe31f025
+[15:37:51] [Server thread/INFO]: 7718_[/100.67.168.12:54428] logged in with entity id 116 at (666.967328619902, 71.0, 37.02432453544255)
+[15:37:51] [Server thread/INFO]: 7718_ joined the game
+[15:37:58] [Server thread/INFO]: 7718_ lost connection: Disconnected
+[15:37:58] [Server thread/INFO]: 7718_ left the game
+[15:38:58] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[15:43:22] [Server thread/INFO]: Stopping the server
+[15:43:22] [Server thread/INFO]: Stopping server
+[15:43:22] [Server thread/INFO]: Saving players
+[15:43:22] [Server thread/INFO]: Saving worlds
+[15:43:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:43:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15:43:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15:43:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:43:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:43:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:43:22] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
