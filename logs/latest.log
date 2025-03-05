@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [19:44:47] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
 [19:44:47] [ServerMain/ERROR]: Failed to start the minecraft server
 java.io.IOException: 程序無法存取檔案，因為另一個程序已鎖定檔案的一部分。
@@ -122,3 +123,38 @@ se/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:393) ~[?:?]
 [22:14:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
 [22:14:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
 [22:14:32] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+=======
+[15:37:39] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[15:37:41] [ServerMain/INFO]: Loaded 1370 recipes
+[15:37:41] [ServerMain/INFO]: Loaded 1481 advancements
+[15:37:41] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[15:37:41] [Server thread/INFO]: Loading properties
+[15:37:41] [Server thread/INFO]: Default game type: SURVIVAL
+[15:37:41] [Server thread/INFO]: Generating keypair
+[15:37:41] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:37:41] [Server thread/INFO]: Using epoll channel type
+[15:37:41] [Server thread/INFO]: Preparing level "world"
+[15:37:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:37:42] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:37:42] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:37:42] [Worker-Main-15/INFO]: Preparing spawn area: 10%
+[15:37:43] [Server thread/INFO]: Time elapsed: 1073 ms
+[15:37:43] [Server thread/INFO]: Done (1.402s)! For help, type "help"
+[15:37:50] [User Authenticator #1/INFO]: UUID of player 7718_ is 866507f7-e61b-411e-98e9-21d0fe31f025
+[15:37:51] [Server thread/INFO]: 7718_[/100.67.168.12:54428] logged in with entity id 116 at (666.967328619902, 71.0, 37.02432453544255)
+[15:37:51] [Server thread/INFO]: 7718_ joined the game
+[15:37:58] [Server thread/INFO]: 7718_ lost connection: Disconnected
+[15:37:58] [Server thread/INFO]: 7718_ left the game
+[15:38:58] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[15:43:22] [Server thread/INFO]: Stopping the server
+[15:43:22] [Server thread/INFO]: Stopping server
+[15:43:22] [Server thread/INFO]: Saving players
+[15:43:22] [Server thread/INFO]: Saving worlds
+[15:43:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:43:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15:43:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15:43:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:43:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:43:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:43:22] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+>>>>>>> 477b9e6d7e18df05000cb5783ff1d1b938072842
