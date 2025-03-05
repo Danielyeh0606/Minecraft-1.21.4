@@ -1,160 +1,68 @@
-<<<<<<< HEAD
-[19:44:47] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[19:44:47] [ServerMain/ERROR]: Failed to start the minecraft server
-java.io.IOException: 程序無法存取檔案，因為另一個程序已鎖定檔案的一部分。
-	at java.base/sun.nio.ch.FileDispatcherImpl.write0(Native Method) ~[?:?]
-	at java.base/sun.nio.ch.FileDispatcherImpl.write(FileDispatcherImpl.java:75) ~[?:?]
-	at java.base/sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:137) ~[?:?]
-	at java.base/sun.nio.ch.IOUtil.write(IOUtil.java:81) ~[?:?]
-	at java.base/sun.nio.ch.IOUtil.write(IOUtil.java:72) ~[?:?]
-	at java.base/sun.nio.ch.FileChannelImpl.write(FileChannelImpl.java:303) ~[?:?]
-	at ayf.a(SourceFile:37) ~[server-1.21.4.jar:?]
-	at evg$c.<init>(SourceFile:374) ~[server-1.21.4.jar:?]
-	at evg.d(SourceFile:353) ~[server-1.21.4.jar:?]
-	at net.minecraft.server.Main.main(SourceFile:139) ~[server-1.21.4.jar:?]
-	at net.minecraft.bundler.Main.lambda$run$0(Main.java:54) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1570) [?:?]
-se/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:393) ~[?:?]
-	at java.base/sun.nio.cs.StreamDecoder.lockedRead(StreamDecoder.java:217) ~[?:?]
-	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:171) ~[?:?]
-	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:186) ~[?:?]
-	at java.base/java.io.BufferedReader.fill(BufferedReader.java:160) ~[?:?]
-	at java.base/java.io.BufferedReader.implReadLine(BufferedReader.java:370) ~[?:?]
-	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:347) ~[?:?]
-	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:436) ~[?:?]
-	at apu$1.run(SourceFile:102) [server-1.21.4.jar:?]
-[19:44:33] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:44:33] [Server thread/INFO]: Using default channel type
-[19:44:34] [Server thread/INFO]: Preparing level "world"
-[19:44:34] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:44:37] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[19:44:37] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[19:44:37] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[19:44:37] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[19:44:37] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[19:44:37] [Worker-Main-1/INFO]: Preparing spawn area: 18%
-[19:44:37] [Server thread/INFO]: Time elapsed: 2598 ms
-[19:44:37] [Server thread/INFO]: Done (3.410s)! For help, type "help"
-[19:45:09] [User Authenticator #1/INFO]: UUID of player _gary_825 is 8b485e5b-df67-4315-9405-2a9eb28bdd97
-[19:45:10] [Server thread/INFO]: _gary_825[/26.128.116.69:12202] logged in with entity id 116 at (901.0721221552575, 66.0, 1183.207862676186)
-[19:45:10] [Server thread/INFO]: _gary_825 joined the game
-[19:55:29] [User Authenticator #2/INFO]: UUID of player BABUBABABA is 4fd662aa-5c63-4de3-8c57-29146d1e45d2
-[19:55:30] [Server thread/INFO]: BABUBABABA[/26.67.121.42:61844] logged in with entity id 2244 at (938.455825810335, 64.0, 1268.367214948415)
-[19:55:30] [Server thread/INFO]: BABUBABABA joined the game
-[19:56:22] [Server thread/INFO]: [BABUBABABA: Set the time to 1000]
-[20:01:09] [Server thread/INFO]: [BABUBABABA: Set own game mode to Spectator Mode]
-[20:03:59] [Server thread/INFO]: [BABUBABABA: Set own game mode to Survival Mode]
-[20:05:36] [Server thread/INFO]: [BABUBABABA: Set the time to 1000]
-[20:14:38] [Server thread/INFO]: [BABUBABABA: Set the time to 1000]
-[20:22:14] [Server thread/INFO]: [BABUBABABA: Set the time to 1000]
-[20:22:22] [Server thread/INFO]: [BABUBABABA: Set the time to 1000]
-[20:33:44] [Server thread/INFO]: [BABUBABABA: Set the time to 1000]
-[20:34:57] [Server thread/INFO]: BABUBABABA was killed by Witch using magic
-[20:36:24] [Server thread/INFO]: [BABUBABABA: Set own game mode to Spectator Mode]
-[20:37:20] [Server thread/INFO]: [BABUBABABA: Set own game mode to Creative Mode]
-[20:38:31] [Server thread/INFO]: [BABUBABABA: Set own game mode to Spectator Mode]
-[20:38:57] [Server thread/INFO]: [BABUBABABA: Set own game mode to Survival Mode]
-[20:40:50] [Server thread/INFO]: BABUBABABA lost connection: Disconnected
-[20:40:50] [Server thread/INFO]: BABUBABABA left the game
-[20:43:22] [User Authenticator #3/INFO]: UUID of player BABUBABABA is 4fd662aa-5c63-4de3-8c57-29146d1e45d2
-[20:43:22] [Server thread/INFO]: BABUBABABA[/26.67.121.42:62980] logged in with entity id 11502 at (927.3000000119209, 68.0, 1142.694725658246)
-[20:43:22] [Server thread/INFO]: BABUBABABA joined the game
-[20:43:33] [Server thread/INFO]: [BABUBABABA: Set the time to 1000]
-[20:51:18] [Server thread/INFO]: [BABUBABABA: Set own game mode to Spectator Mode]
-[20:51:37] [Server thread/INFO]: [BABUBABABA: Set own game mode to Survival Mode]
-[20:53:08] [Server thread/INFO]: BABUBABABA lost connection: Timed out
-[20:53:08] [Server thread/INFO]: BABUBABABA left the game
-[20:54:59] [User Authenticator #4/INFO]: UUID of player BABUBABABA is 4fd662aa-5c63-4de3-8c57-29146d1e45d2
-[20:55:00] [Server thread/INFO]: BABUBABABA[/26.67.121.42:63421] logged in with entity id 13554 at (962.5636638600223, 69.0, 1158.2199531927904)
-[20:55:00] [Server thread/INFO]: BABUBABABA joined the game
-[20:55:14] [Server thread/INFO]: [BABUBABABA: Set the time to 1000]
-[20:59:14] [Server thread/INFO]: [BABUBABABA: Set the time to 1000]
-[21:02:11] [Server thread/INFO]: [BABUBABABA: Set the time to 1000]
-[21:09:16] [Server thread/INFO]: [BABUBABABA: Set the time to 1000]
-[21:10:18] [Server thread/INFO]: [BABUBABABA: Set the time to 1000]
-[21:11:19] [Server thread/WARN]: BABUBABABA moved too quickly! 10.028222145269979,0.0,-1.3166375427852017
-[21:19:16] [Server thread/INFO]: [BABUBABABA: Set the time to 1000]
-[21:24:48] [Server thread/INFO]: BABUBABABA lost connection: Timed out
-[21:24:48] [Server thread/INFO]: BABUBABABA left the game
-[21:24:58] [User Authenticator #5/INFO]: UUID of player BABUBABABA is 4fd662aa-5c63-4de3-8c57-29146d1e45d2
-[21:24:59] [Server thread/INFO]: BABUBABABA[/26.67.121.42:64588] logged in with entity id 19570 at (960.6616908678033, 66.16610926093821, 1159.0163507492236)
-[21:24:59] [Server thread/INFO]: BABUBABABA joined the game
-[21:26:16] [Server thread/INFO]: BABUBABABA lost connection: Timed out
-[21:26:16] [Server thread/INFO]: BABUBABABA left the game
-[21:26:54] [User Authenticator #6/INFO]: UUID of player BABUBABABA is 4fd662aa-5c63-4de3-8c57-29146d1e45d2
-[21:26:54] [Server thread/INFO]: BABUBABABA[/26.67.121.42:64652] logged in with entity id 19800 at (962.4427453904447, 66.0, 1158.1458880733665)
-[21:26:54] [Server thread/INFO]: BABUBABABA joined the game
-[21:27:59] [Server thread/INFO]: BABUBABABA lost connection: Timed out
-[21:27:59] [Server thread/INFO]: BABUBABABA left the game
-[21:28:15] [User Authenticator #7/INFO]: UUID of player BABUBABABA is 4fd662aa-5c63-4de3-8c57-29146d1e45d2
-[21:28:15] [Server thread/INFO]: BABUBABABA[/26.67.121.42:64691] logged in with entity id 19968 at (962.7026578083578, 66.125, 1157.0558302431782)
-[21:28:15] [Server thread/INFO]: BABUBABABA joined the game
-[21:28:33] [Server thread/INFO]: [BABUBABABA: Set the time to 1000]
-[21:29:16] [Server thread/INFO]: BABUBABABA lost connection: Timed out
-[21:29:16] [Server thread/INFO]: BABUBABABA left the game
-[21:29:31] [User Authenticator #8/INFO]: UUID of player BABUBABABA is 4fd662aa-5c63-4de3-8c57-29146d1e45d2
-[21:29:32] [Server thread/INFO]: BABUBABABA[/26.67.121.42:64744] logged in with entity id 20135 at (960.6552926007736, 63.9375, 1206.777152379101)
-[21:29:32] [Server thread/INFO]: BABUBABABA joined the game
-[21:30:20] [Server thread/INFO]: BABUBABABA lost connection: Timed out
-[21:30:20] [Server thread/INFO]: BABUBABABA left the game
-[21:30:31] [User Authenticator #9/INFO]: UUID of player BABUBABABA is 4fd662aa-5c63-4de3-8c57-29146d1e45d2
-[21:30:31] [Server thread/INFO]: BABUBABABA[/26.67.121.42:64789] logged in with entity id 20280 at (882.3898324182479, 65.0, 1190.090868017805)
-[21:30:31] [Server thread/INFO]: BABUBABABA joined the game
-[21:32:49] [Server thread/WARN]: BABUBABABA moved too quickly! 0.40050295173398354,-7.304316827457541,-7.170388259535457
-[21:32:53] [Server thread/INFO]: [BABUBABABA: Set the time to 1000]
-[21:40:32] [Server thread/WARN]: BABUBABABA moved too quickly! 9.143781021745212,2.0,-3.8367527342797985
-[21:41:55] [Server thread/INFO]: [BABUBABABA: Set the time to 1000]
-[21:51:15] [Server thread/INFO]: [BABUBABABA: Set the time to 1000]
-[22:01:03] [Server thread/INFO]: [BABUBABABA: Set the time to 1000]
-[22:06:02] [Server thread/INFO]: BABUBABABA tried to swim in lava
-[22:10:42] [Server thread/INFO]: [BABUBABABA: Set the time to 1000]
-[22:14:16] [Server thread/INFO]: _gary_825 lost connection: Disconnected
-[22:14:16] [Server thread/INFO]: _gary_825 left the game
-[22:14:16] [Server thread/INFO]: BABUBABABA lost connection: Disconnected
-[22:14:16] [Server thread/INFO]: BABUBABABA left the game
-[22:14:31] [Server thread/INFO]: Stopping the server
-[22:14:31] [Server thread/INFO]: Stopping server
-[22:14:31] [Server thread/INFO]: Saving players
-[22:14:31] [Server thread/INFO]: Saving worlds
-[22:14:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[22:14:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[22:14:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[22:14:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:14:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:14:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:14:32] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-=======
-[15:37:39] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[15:37:41] [ServerMain/INFO]: Loaded 1370 recipes
-[15:37:41] [ServerMain/INFO]: Loaded 1481 advancements
-[15:37:41] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[15:37:41] [Server thread/INFO]: Loading properties
-[15:37:41] [Server thread/INFO]: Default game type: SURVIVAL
-[15:37:41] [Server thread/INFO]: Generating keypair
-[15:37:41] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:37:41] [Server thread/INFO]: Using epoll channel type
-[15:37:41] [Server thread/INFO]: Preparing level "world"
-[15:37:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:37:42] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[15:37:42] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[15:37:42] [Worker-Main-15/INFO]: Preparing spawn area: 10%
-[15:37:43] [Server thread/INFO]: Time elapsed: 1073 ms
-[15:37:43] [Server thread/INFO]: Done (1.402s)! For help, type "help"
-[15:37:50] [User Authenticator #1/INFO]: UUID of player 7718_ is 866507f7-e61b-411e-98e9-21d0fe31f025
-[15:37:51] [Server thread/INFO]: 7718_[/100.67.168.12:54428] logged in with entity id 116 at (666.967328619902, 71.0, 37.02432453544255)
-[15:37:51] [Server thread/INFO]: 7718_ joined the game
-[15:37:58] [Server thread/INFO]: 7718_ lost connection: Disconnected
-[15:37:58] [Server thread/INFO]: 7718_ left the game
-[15:38:58] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[15:43:22] [Server thread/INFO]: Stopping the server
-[15:43:22] [Server thread/INFO]: Stopping server
-[15:43:22] [Server thread/INFO]: Saving players
-[15:43:22] [Server thread/INFO]: Saving worlds
-[15:43:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[15:43:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[15:43:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[15:43:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[15:43:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[15:43:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[15:43:22] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
->>>>>>> 477b9e6d7e18df05000cb5783ff1d1b938072842
+[00:00:26] [Server thread/INFO]: _gary_825 has made the advancement [Ice Bucket Challenge]
+[00:05:42] [Server thread/INFO]: _gary_825 has made the advancement [Who is Cutting Onions?]
+[00:16:45] [Server thread/INFO]: <BABUBABABA> w
+[00:23:08] [Server thread/INFO]: redbean920108 has made the advancement [Who is Cutting Onions?]
+[01:02:42] [User Authenticator #10/INFO]: UUID of player 7718_ is 866507f7-e61b-411e-98e9-21d0fe31f025
+[01:02:43] [Server thread/INFO]: 7718_[/100.67.168.12:58363] logged in with entity id 34570 at (666.967328619902, 71.0, 37.02432453544255)
+[01:02:43] [Server thread/INFO]: 7718_ joined the game
+[01:04:19] [Server thread/INFO]: 7718_ lost connection: Disconnected
+[01:04:19] [Server thread/INFO]: 7718_ left the game
+[01:04:24] [User Authenticator #11/INFO]: UUID of player 7718_ is 866507f7-e61b-411e-98e9-21d0fe31f025
+[01:04:25] [Server thread/INFO]: 7718_[/100.67.168.12:58380] logged in with entity id 35850 at (742.6999999880791, 67.0, 147.69999998807907)
+[01:04:25] [Server thread/INFO]: 7718_ joined the game
+[01:06:32] [Server thread/WARN]: BABUBABABA moved too quickly! -9.084514177122287,-4.0,2.101208123507604
+[01:06:40] [Server thread/INFO]: 7718_ lost connection: Timed out
+[01:06:40] [Server thread/INFO]: 7718_ left the game
+[01:06:41] [Server thread/INFO]: redbean920108 lost connection: Disconnected
+[01:06:41] [Server thread/INFO]: redbean920108 left the game
+[01:06:55] [User Authenticator #12/INFO]: UUID of player 7718_ is 866507f7-e61b-411e-98e9-21d0fe31f025
+[01:06:56] [Server thread/INFO]: 7718_[/100.67.168.12:58407] logged in with entity id 37358 at (734.8741187682641, 26.0, 77.07849646619354)
+[01:06:56] [Server thread/INFO]: 7718_ joined the game
+[01:07:43] [Server thread/INFO]: [7718_: Teleported 7718_ to _gary_825]
+[01:08:14] [User Authenticator #13/INFO]: UUID of player redbean920108 is c9bf6189-b5cc-4cd3-8fcf-196e091be6c1
+[01:08:14] [Server thread/INFO]: redbean920108[/100.123.124.30:63798] logged in with entity id 38330 at (119.85491412320802, 71.0, 155.8685989153227)
+[01:08:15] [Server thread/INFO]: redbean920108 joined the game
+[01:08:36] [Server thread/INFO]: 7718_ has made the advancement [What a Deal!]
+[01:09:11] [Server thread/INFO]: 7718_ has made the advancement [Cover Me with Diamonds]
+[01:29:27] [Server thread/INFO]: BABUBABABA has made the advancement [What a Deal!]
+[01:29:28] [Server thread/INFO]: BABUBABABA has made the advancement [Cover Me with Diamonds]
+[01:35:49] [Server thread/INFO]: <BABUBABABA> 4
+[01:40:51] [Server thread/INFO]: redbean920108 lost connection: Disconnected
+[01:40:51] [Server thread/INFO]: redbean920108 left the game
+[01:52:36] [Server thread/INFO]: Villager coj['Fisherman'/71, l='ServerLevel[world]', x=884.48, y=64.00, z=1246.52] died, message: 'Fisherman was slain by 7718_'
+[02:01:15] [Server thread/INFO]: BABUBABABA lost connection: Disconnected
+[02:01:15] [Server thread/INFO]: BABUBABABA left the game
+[02:13:26] [User Authenticator #14/INFO]: UUID of player BABUBABABA is 4fd662aa-5c63-4de3-8c57-29146d1e45d2
+[02:13:27] [Server thread/INFO]: BABUBABABA[/100.119.187.75:49698] logged in with entity id 56671 at (916.9267688422195, 64.0, 1239.804974747793)
+[02:13:27] [Server thread/INFO]: BABUBABABA joined the game
+[02:58:01] [Server thread/INFO]: BABUBABABA lost connection: Disconnected
+[02:58:01] [Server thread/INFO]: BABUBABABA left the game
+[03:28:08] [Server thread/WARN]: 7718_ moved too quickly! 10.169527520784072,0.0,-1.330806469144818
+[03:28:28] [User Authenticator #15/INFO]: UUID of player 7718_ is 866507f7-e61b-411e-98e9-21d0fe31f025
+[03:28:33] [Server thread/INFO]: 7718_ lost connection: Disconnected
+[03:28:33] [Server thread/INFO]: 7718_ left the game
+[03:28:34] [Server thread/INFO]: 7718_[/100.67.168.12:60082] logged in with entity id 73648 at (907.4929120873207, 64.0, 1253.0282732836727)
+[03:28:34] [Server thread/INFO]: 7718_ joined the game
+[04:03:25] [Server thread/INFO]: 7718_ lost connection: Disconnected
+[04:03:25] [Server thread/INFO]: 7718_ left the game
+[04:03:28] [User Authenticator #16/INFO]: UUID of player 7718_ is 866507f7-e61b-411e-98e9-21d0fe31f025
+[04:03:28] [Server thread/INFO]: 7718_[/100.67.168.12:60328] logged in with entity id 80938 at (917.1125529453744, 64.0, 1257.5537988324356)
+[04:03:28] [Server thread/INFO]: 7718_ joined the game
+[04:35:44] [Server thread/INFO]: _gary_825 has made the advancement [Take Aim]
+[04:58:37] [Server thread/INFO]: _gary_825 lost connection: Disconnected
+[04:58:37] [Server thread/INFO]: _gary_825 left the game
+[04:59:26] [Server thread/INFO]: 7718_ lost connection: Disconnected
+[04:59:26] [Server thread/INFO]: 7718_ left the game
+[04:59:30] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[04:59:30] [Server thread/INFO]: STOP<--[HERE]
+[04:59:35] [Server thread/INFO]: Stopping the server
+[04:59:35] [Server thread/INFO]: Stopping server
+[04:59:35] [Server thread/INFO]: Saving players
+[04:59:35] [Server thread/INFO]: Saving worlds
+[04:59:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:59:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04:59:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04:59:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:59:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:59:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:59:36] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
