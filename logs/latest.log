@@ -1,68 +1,60 @@
-[00:00:26] [Server thread/INFO]: _gary_825 has made the advancement [Ice Bucket Challenge]
-[00:05:42] [Server thread/INFO]: _gary_825 has made the advancement [Who is Cutting Onions?]
-[00:16:45] [Server thread/INFO]: <BABUBABABA> w
-[00:23:08] [Server thread/INFO]: redbean920108 has made the advancement [Who is Cutting Onions?]
-[01:02:42] [User Authenticator #10/INFO]: UUID of player 7718_ is 866507f7-e61b-411e-98e9-21d0fe31f025
-[01:02:43] [Server thread/INFO]: 7718_[/100.67.168.12:58363] logged in with entity id 34570 at (666.967328619902, 71.0, 37.02432453544255)
-[01:02:43] [Server thread/INFO]: 7718_ joined the game
-[01:04:19] [Server thread/INFO]: 7718_ lost connection: Disconnected
-[01:04:19] [Server thread/INFO]: 7718_ left the game
-[01:04:24] [User Authenticator #11/INFO]: UUID of player 7718_ is 866507f7-e61b-411e-98e9-21d0fe31f025
-[01:04:25] [Server thread/INFO]: 7718_[/100.67.168.12:58380] logged in with entity id 35850 at (742.6999999880791, 67.0, 147.69999998807907)
-[01:04:25] [Server thread/INFO]: 7718_ joined the game
-[01:06:32] [Server thread/WARN]: BABUBABABA moved too quickly! -9.084514177122287,-4.0,2.101208123507604
-[01:06:40] [Server thread/INFO]: 7718_ lost connection: Timed out
-[01:06:40] [Server thread/INFO]: 7718_ left the game
-[01:06:41] [Server thread/INFO]: redbean920108 lost connection: Disconnected
-[01:06:41] [Server thread/INFO]: redbean920108 left the game
-[01:06:55] [User Authenticator #12/INFO]: UUID of player 7718_ is 866507f7-e61b-411e-98e9-21d0fe31f025
-[01:06:56] [Server thread/INFO]: 7718_[/100.67.168.12:58407] logged in with entity id 37358 at (734.8741187682641, 26.0, 77.07849646619354)
-[01:06:56] [Server thread/INFO]: 7718_ joined the game
-[01:07:43] [Server thread/INFO]: [7718_: Teleported 7718_ to _gary_825]
-[01:08:14] [User Authenticator #13/INFO]: UUID of player redbean920108 is c9bf6189-b5cc-4cd3-8fcf-196e091be6c1
-[01:08:14] [Server thread/INFO]: redbean920108[/100.123.124.30:63798] logged in with entity id 38330 at (119.85491412320802, 71.0, 155.8685989153227)
-[01:08:15] [Server thread/INFO]: redbean920108 joined the game
-[01:08:36] [Server thread/INFO]: 7718_ has made the advancement [What a Deal!]
-[01:09:11] [Server thread/INFO]: 7718_ has made the advancement [Cover Me with Diamonds]
-[01:29:27] [Server thread/INFO]: BABUBABABA has made the advancement [What a Deal!]
-[01:29:28] [Server thread/INFO]: BABUBABABA has made the advancement [Cover Me with Diamonds]
-[01:35:49] [Server thread/INFO]: <BABUBABABA> 4
-[01:40:51] [Server thread/INFO]: redbean920108 lost connection: Disconnected
-[01:40:51] [Server thread/INFO]: redbean920108 left the game
-[01:52:36] [Server thread/INFO]: Villager coj['Fisherman'/71, l='ServerLevel[world]', x=884.48, y=64.00, z=1246.52] died, message: 'Fisherman was slain by 7718_'
-[02:01:15] [Server thread/INFO]: BABUBABABA lost connection: Disconnected
-[02:01:15] [Server thread/INFO]: BABUBABABA left the game
-[02:13:26] [User Authenticator #14/INFO]: UUID of player BABUBABABA is 4fd662aa-5c63-4de3-8c57-29146d1e45d2
-[02:13:27] [Server thread/INFO]: BABUBABABA[/100.119.187.75:49698] logged in with entity id 56671 at (916.9267688422195, 64.0, 1239.804974747793)
-[02:13:27] [Server thread/INFO]: BABUBABABA joined the game
-[02:58:01] [Server thread/INFO]: BABUBABABA lost connection: Disconnected
-[02:58:01] [Server thread/INFO]: BABUBABABA left the game
-[03:28:08] [Server thread/WARN]: 7718_ moved too quickly! 10.169527520784072,0.0,-1.330806469144818
-[03:28:28] [User Authenticator #15/INFO]: UUID of player 7718_ is 866507f7-e61b-411e-98e9-21d0fe31f025
-[03:28:33] [Server thread/INFO]: 7718_ lost connection: Disconnected
-[03:28:33] [Server thread/INFO]: 7718_ left the game
-[03:28:34] [Server thread/INFO]: 7718_[/100.67.168.12:60082] logged in with entity id 73648 at (907.4929120873207, 64.0, 1253.0282732836727)
-[03:28:34] [Server thread/INFO]: 7718_ joined the game
-[04:03:25] [Server thread/INFO]: 7718_ lost connection: Disconnected
-[04:03:25] [Server thread/INFO]: 7718_ left the game
-[04:03:28] [User Authenticator #16/INFO]: UUID of player 7718_ is 866507f7-e61b-411e-98e9-21d0fe31f025
-[04:03:28] [Server thread/INFO]: 7718_[/100.67.168.12:60328] logged in with entity id 80938 at (917.1125529453744, 64.0, 1257.5537988324356)
-[04:03:28] [Server thread/INFO]: 7718_ joined the game
-[04:35:44] [Server thread/INFO]: _gary_825 has made the advancement [Take Aim]
-[04:58:37] [Server thread/INFO]: _gary_825 lost connection: Disconnected
-[04:58:37] [Server thread/INFO]: _gary_825 left the game
-[04:59:26] [Server thread/INFO]: 7718_ lost connection: Disconnected
-[04:59:26] [Server thread/INFO]: 7718_ left the game
-[04:59:30] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[04:59:30] [Server thread/INFO]: STOP<--[HERE]
-[04:59:35] [Server thread/INFO]: Stopping the server
-[04:59:35] [Server thread/INFO]: Stopping server
-[04:59:35] [Server thread/INFO]: Saving players
-[04:59:35] [Server thread/INFO]: Saving worlds
-[04:59:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[04:59:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[04:59:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[04:59:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[04:59:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04:59:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[04:59:36] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:05:48] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[15:05:50] [ServerMain/INFO]: Loaded 1370 recipes
+[15:05:50] [ServerMain/INFO]: Loaded 1481 advancements
+[15:05:50] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[15:05:50] [Server thread/INFO]: Loading properties
+[15:05:50] [Server thread/INFO]: Default game type: SURVIVAL
+[15:05:50] [Server thread/INFO]: Generating keypair
+[15:05:50] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:05:51] [Server thread/INFO]: Using epoll channel type
+[15:05:51] [Server thread/INFO]: Preparing level "world"
+[15:05:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:05:52] [Worker-Main-21/INFO]: Preparing spawn area: 0%
+[15:05:52] [Worker-Main-21/INFO]: Preparing spawn area: 0%
+[15:05:52] [Worker-Main-21/INFO]: Preparing spawn area: 0%
+[15:05:52] [Server thread/INFO]: Time elapsed: 1281 ms
+[15:05:52] [Server thread/INFO]: Done (1.689s)! For help, type "help"
+[15:06:52] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[15:07:54] [User Authenticator #1/INFO]: UUID of player _gary_825 is 8b485e5b-df67-4315-9405-2a9eb28bdd97
+[15:07:55] [Server thread/INFO]: _gary_825[/100.125.20.9:1813] logged in with entity id 125 at (698.6999999880791, 56.0, 1347.83854354313)
+[15:07:55] [Server thread/INFO]: _gary_825 joined the game
+[15:30:44] [User Authenticator #2/INFO]: UUID of player redbean920108 is c9bf6189-b5cc-4cd3-8fcf-196e091be6c1
+[15:30:48] [Server thread/INFO]: redbean920108[/100.123.124.30:60542] logged in with entity id 3738 at (922.800468474605, 61.0, 1152.7003380237188)
+[15:30:48] [Server thread/INFO]: redbean920108 joined the game
+[15:33:33] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=921, y=64, z=1158} ji{x=920, y=66, z=1164}
+[15:34:33] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=904, y=64, z=1165} ji{x=906, y=63, z=1164}
+[15:34:33] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=905, y=64, z=1165} ji{x=906, y=63, z=1164}
+[15:34:37] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=903, y=64, z=1162} ji{x=903, y=63, z=1161}
+[15:34:37] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=903, y=64, z=1162} ji{x=903, y=63, z=1161}
+[15:34:42] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=907, y=63, z=1161} ji{x=908, y=62, z=1162}
+[15:34:42] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=907, y=63, z=1161} ji{x=908, y=62, z=1162}
+[15:34:42] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=907, y=63, z=1161} ji{x=908, y=62, z=1162}
+[15:34:42] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=907, y=63, z=1161} ji{x=908, y=62, z=1162}
+[15:34:45] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=908, y=63, z=1161} ji{x=909, y=62, z=1159}
+[15:34:45] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=908, y=63, z=1161} ji{x=909, y=62, z=1159}
+[15:34:45] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=908, y=63, z=1160} ji{x=909, y=62, z=1159}
+[15:34:45] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=908, y=63, z=1160} ji{x=909, y=62, z=1159}
+[15:34:45] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=908, y=63, z=1160} ji{x=909, y=62, z=1159}
+[15:34:45] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=908, y=63, z=1160} ji{x=909, y=62, z=1159}
+[15:34:45] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=908, y=63, z=1160} ji{x=909, y=62, z=1159}
+[15:34:45] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=908, y=63, z=1160} ji{x=909, y=62, z=1159}
+[15:34:45] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=908, y=63, z=1160} ji{x=909, y=62, z=1159}
+[15:34:45] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=910, y=64, z=1160} ji{x=911, y=63, z=1158}
+[15:34:45] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=910, y=64, z=1159} ji{x=911, y=63, z=1158}
+[15:34:46] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=909, y=64, z=1161} ji{x=911, y=64, z=1160}
+[15:37:55] [Server thread/WARN]: redbean920108 moved too quickly! 1.9071198992751306,0.756759288177264,10.06900645059227
+[16:31:21] [Server thread/INFO]: redbean920108 lost connection: Disconnected
+[16:31:21] [Server thread/INFO]: redbean920108 left the game
+[16:39:42] [Server thread/INFO]: _gary_825 lost connection: Disconnected
+[16:39:42] [Server thread/INFO]: _gary_825 left the game
+[16:39:52] [Server thread/INFO]: Stopping the server
+[16:39:52] [Server thread/INFO]: Stopping server
+[16:39:52] [Server thread/INFO]: Saving players
+[16:39:52] [Server thread/INFO]: Saving worlds
+[16:39:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:39:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:39:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:39:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:39:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:39:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:39:52] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
